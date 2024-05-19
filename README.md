@@ -30,3 +30,8 @@ This variant calculates loss based on what percentage of the pixels in a given s
 This can be helpful in images with a lot of noise, it would in theory prevent cases where the max variant of the algorithm would spend too much depth on parts of the image that aren't actually important but have a few pixels of random noise. But in practice, it ends up losing more time to calculating percentiles than it does gaining from depth, and just ends up being a worse version of mean in most cases.
 
 
+# More results
+
+https://github.com/EgeEken/QuadTree/assets/96302110/4f887e67-d3e3-43b6-9375-cd9f37d2a9d9
+
+
